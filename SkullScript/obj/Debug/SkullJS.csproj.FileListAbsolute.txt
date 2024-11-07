@@ -1,0 +1,14 @@
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\bin\Debug\SkullJS.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\bin\Debug\SkullJS.exe
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\bin\Debug\SkullJS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\bin\Debug\Jsbeautifier.dll
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\obj\Debug\SkullJS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\obj\Debug\SkullJS.exe
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SharpBasic\obj\Debug\SkullJS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Debug\SkullJS.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Debug\SkullJS.exe
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Debug\SkullJS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Debug\Jsbeautifier.dll
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\obj\Debug\SkullJS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\obj\Debug\SkullJS.exe
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\obj\Debug\SkullJS.pdb

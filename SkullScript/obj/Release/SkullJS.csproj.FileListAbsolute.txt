@@ -1,0 +1,5 @@
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Release\SkullJS.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Release\SkullJS.exe
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\bin\Release\Jsbeautifier.dll
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\obj\Release\SkullJS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Skull Script\SkullScript\obj\Release\SkullJS.exe
